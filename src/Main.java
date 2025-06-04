@@ -19,6 +19,7 @@ public class Main {
         // komentář - řádkový
 
         System.out.println(/*komentář*/"Ahoj");
+        System.out.println("Pozor, změna!");
         /*
          * komentář - blokový
          *
