@@ -14,7 +14,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("Hello world!");
 
-        main(args);
+        //main(args);
 
         // komentář - řádkový
 
